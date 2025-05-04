@@ -1,0 +1,16 @@
+$color-scheme: myscheme;
+$body-background-color: $white;
+$body-heading-color: #000000;
+$body-text-color: #000000;
+$link-color: #0F6E09;
+$nav-child-link-color: $grey-dk-100;
+$sidebar-color: #1CAB12;
+$base-button-color: #f7f7f7;
+$btn-primary-color: #0F6E09;
+$code-background-color: $grey-lt-000;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $white;
+$search-background-color: $white;
+$search-result-preview-color: $grey-dk-000;
+
+@import "./vendor/OneLightJekyll/syntax";
